@@ -11,5 +11,10 @@
   "devDependencies": {
     "axios": "^0.19.0",
     "open": "^6.4.0"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.15",
+    "sunrise-sunset-js": "^2.1.1"
   }
 }
